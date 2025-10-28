@@ -694,7 +694,7 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 Desenvolvido por **rodrigochavesoa**
 
 - 🐙 GitHub: [@rodrigochavesoa](https://github.com/rodrigochavesoa)
-- 📧 Email: [Entre em Contato] (mailto:pontochavedesign@gmail.com)
+- 📧 Email: [pontochavedesign@gmail.com](mailto:pontochavedesign@gmail.com)
 
 ---
 
